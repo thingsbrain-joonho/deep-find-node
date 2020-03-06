@@ -1,0 +1,12 @@
+2019-05-24 13:09L54 [INFO] - ,main,GET,admin,::ffff:192.168.0.1,메인화면 접속
+2019-05-24 13:09L55 [INFO] - ,cleanhouse,GET,admin,::ffff:192.168.0.1,클린하우스 로그 접속
+2019-05-24 13:10L04 [INFO] - ,log,GET,admin,::ffff:192.168.0.1,통합관리시스템 로그 접속
+2019-05-24 13:40L22 [INFO] - ,main,GET,admin,::ffff:192.168.0.1,메인화면 접속
+2019-05-24 13:40L24 [INFO] - ,cleanhouse,GET,admin,::ffff:192.168.0.1,클린하우스 로그 접속
+2019-05-24 13:40L29 [INFO] - ,cleanhouse,POST,admin,::ffff:192.168.0.1,2019-05-22일 로그 조회
+2019-05-24 13:40L31 [INFO] - ,cleanhouse,POST,admin,::ffff:192.168.0.1,2019-05-20일 로그 조회
+2019-05-24 13:40L32 [INFO] - ,smart,GET,admin,::ffff:192.168.0.1,스마트파킹 로그 접속
+2019-05-24 13:40L34 [INFO] - ,log,GET,admin,::ffff:192.168.0.1,통합관리시스템 로그 접속
+2019-05-24 13:40L36 [INFO] - ,log,POST,admin,::ffff:192.168.0.1,2019-05-22일 로그 조회
+2019-05-24 13:40L38 [INFO] - ,log,POST,admin,::ffff:192.168.0.1,2019-05-21일 로그 조회
+2019-05-24 13:53L35 [INFO] - ,log,GET,admin,::ffff:192.168.0.1,통합관리시스템 로그 접속

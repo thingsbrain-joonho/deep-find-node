@@ -1,0 +1,24 @@
+2019-05-30 11:32L08 [INFO] - ,main,GET,admin,::ffff:192.168.0.1,메인화면 접속
+2019-05-30 11:32L13 [INFO] - ,log,GET,admin,::ffff:192.168.0.1,통합관리시스템 로그 접속
+2019-05-30 11:32L20 [INFO] - ,main,GET,admin,::ffff:192.168.0.1,메인화면 접속
+2019-05-30 11:32L21 [INFO] - ,cleanhouse,GET,admin,::ffff:192.168.0.1,클린하우스 로그 접속
+2019-05-30 11:32L23 [INFO] - ,smart,GET,admin,::ffff:192.168.0.1,스마트파킹 로그 접속
+2019-05-30 11:32L29 [INFO] - ,smart,POST,admin,::ffff:192.168.0.1,2019-05-29일 로그 조회
+2019-05-30 11:32L30 [INFO] - ,cleanhouse,GET,admin,::ffff:192.168.0.1,클린하우스 로그 접속
+2019-05-30 11:32L31 [INFO] - ,log,GET,admin,::ffff:192.168.0.1,통합관리시스템 로그 접속
+2019-05-30 11:32L35 [INFO] - ,main,GET,admin,::ffff:192.168.0.1,메인화면 접속
+2019-05-30 11:32L36 [INFO] - ,log,GET,admin,::ffff:192.168.0.1,통합관리시스템 로그 접속
+2019-05-30 11:35L30 [INFO] - ,main,GET,admin,::ffff:192.168.0.1,메인화면 접속
+2019-05-30 11:35L33 [INFO] - ,log,GET,admin,::ffff:192.168.0.1,통합관리시스템 로그 접속
+2019-05-30 11:37L22 [INFO] - ,main,GET,admin,::ffff:192.168.0.1,메인화면 접속
+2019-05-30 11:37L23 [INFO] - ,log,GET,admin,::ffff:192.168.0.1,통합관리시스템 로그 접속
+2019-05-30 11:38L09 [INFO] - ,main,GET,admin,::ffff:192.168.0.1,메인화면 접속
+2019-05-30 11:38L10 [INFO] - ,log,GET,admin,::ffff:192.168.0.1,통합관리시스템 로그 접속
+2019-05-30 11:38L15 [INFO] - ,cleanhouse,GET,admin,::ffff:192.168.0.1,클린하우스 로그 접속
+2019-05-30 11:38L18 [INFO] - ,cleanhouse,POST,admin,::ffff:192.168.0.1,2019-05-29일 로그 조회
+2019-05-30 14:57L39 [INFO] - ,main,GET,admin,::ffff:192.168.0.1,메인화면 접속
+2019-05-30 14:57L40 [INFO] - ,cleanhouse,GET,admin,::ffff:192.168.0.1,클린하우스 로그 접속
+2019-05-30 14:57L41 [INFO] - ,smart,GET,admin,::ffff:192.168.0.1,스마트파킹 로그 접속
+2019-05-30 14:57L41 [INFO] - ,log,GET,admin,::ffff:192.168.0.1,통합관리시스템 로그 접속
+2019-05-30 14:57L48 [INFO] - ,cleanhouse,GET,admin,::ffff:192.168.0.1,클린하우스 로그 접속
+2019-05-30 15:56L56 [INFO] - ,main,GET,admin,::ffff:192.168.0.1,메인화면 접속

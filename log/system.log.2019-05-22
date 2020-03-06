@@ -1,0 +1,13 @@
+2019-05-22 10:00L06 [INFO] - ,main,GET,pk1_admin,::ffff:192.168.0.1,메인화면 접속
+2019-05-22 10:00L10 [INFO] - ,log,GET,pk1_admin,::ffff:192.168.0.1,통합관리시스템 로그 접속
+2019-05-22 10:00L15 [INFO] - ,log,POST,pk1_admin,::ffff:192.168.0.1,2019-05-21일 로그 조회
+2019-05-22 10:00L23 [INFO] - ,cleanhouse,GET,pk1_admin,::ffff:192.168.0.1,클린하우스 로그 접속
+2019-05-22 10:00L24 [INFO] - ,cleanhouse,POST,pk1_admin,::ffff:192.168.0.1,2019-05-21일 로그 조회
+2019-05-22 10:00L27 [INFO] - ,cleanhouse,POST,pk1_admin,::ffff:192.168.0.1,2019-05-20일 로그 조회
+2019-05-22 10:00L28 [INFO] - ,smart,GET,pk1_admin,::ffff:192.168.0.1,스마트파킹 로그 접속
+2019-05-22 10:00L30 [INFO] - ,smart,POST,pk1_admin,::ffff:192.168.0.1,2019-05-21일 로그 조회
+2019-05-22 10:00L34 [INFO] - ,smart,POST,pk1_admin,::ffff:192.168.0.1,2019-05-20일 로그 조회
+2019-05-22 10:00L38 [INFO] - ,smart,POST,pk1_admin,::ffff:192.168.0.1,2019-05-21일 로그 조회
+2019-05-22 10:15L00 [INFO] - ,main,GET,pk1_admin,::ffff:192.168.0.1,메인화면 접속
+2019-05-22 11:04L52 [INFO] - ,main,GET,pk1_admin,::ffff:192.168.0.1,메인화면 접속
+2019-05-22 11:05L07 [INFO] - ,main,GET,pk1_admin,::ffff:192.168.0.1,메인화면 접속

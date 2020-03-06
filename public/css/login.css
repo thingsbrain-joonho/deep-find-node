@@ -1,0 +1,230 @@
+/*--main--*/
+.pom-agile {
+    width:65%;
+    padding: 12px 15px;
+    border-bottom: 1px solid #75CDFF;
+    background: #fff;
+    /* border-color: #; */
+}
+.pom-agile:nth-child(1){
+    margin-bottom: 15px;
+}
+.pom-agile input[type="text"], .pom-agile input[type="password"] {
+    outline: none;
+    /* font-size: .9em; */
+    border: none;
+    background: transparent;
+    width: 93%;
+    color: #000;
+    letter-spacing: 1px;
+}
+.right-w3l input[type="submit"] {
+    color: #fff;
+    background:#09a5cd;
+    border: none;
+    padding: 12px 45px;
+    outline: none;
+    /* font-size: .9em; */
+    cursor: pointer;
+    letter-spacing: 1px;
+    -webkit-transition: 0.5s all;
+    -o-transition: 0.5s all;
+    -moz-transition: 0.5s all;
+    -ms-transition: 0.5s all;
+    transition: 0.5s all;
+}
+.right-w3l input[type="submit"]:hover {
+    background: #fff;
+    color: black;
+	-webkit-transition: 0.5s all;
+    -o-transition: 0.5s all;
+    -moz-transition: 0.5s all;
+    -ms-transition: 0.5s all;
+	transition: 0.5s all;
+}
+span.fa {
+    float: left;
+    color: #000;
+    margin: 0.2em 0 0 0;
+}
+.sub-w3l {
+    padding: 20px 0 30px;
+}
+.sub-agile {
+    float: left;
+}
+.sub-agile input[type="checkbox"] {
+    display: none;
+}
+.sub-agile input[type="checkbox"]+label {
+    position: relative;
+    padding-left: 25px;
+    display: inline-block;
+    /* font-size: .9em; */
+    color: black;
+    cursor: pointer;
+}
+.sub-agile input[type="checkbox"]+label span:first-child {
+    width: 13px;
+    height: 13px;
+    display: inline-block;
+    border: 1px solid black;
+    background-color:grey;
+    position: absolute;
+    top: 1px;
+    left: 2px;
+}
+.sub-agile input[type="checkbox"]:checked+label span:first-child:before {
+    content: "";
+    background: url(../img/tick.png)no-repeat;
+    position: absolute;
+    left: 2px;
+    top: 1px;
+    font-size: 10px;
+    width: 10px;
+    height: 10px;
+}
+.sub-w3l a {
+    float: right;
+    font-size: .9em;
+    color: #fff;
+}
+
+/*--responsive--*/
+@media(max-width: 1440px){
+    .sub-main-w3 {
+        margin: 100px auto;
+    }
+}
+@media(max-width: 1366px){
+    .sub-main-w3 {
+        width: 31%;
+    }
+}
+@media(max-width: 1280px){
+    .sub-main-w3 {
+        width: 34%;
+    }
+}
+@media(max-width: 1080px){
+    .sub-main-w3 {
+        width: 38%;
+        padding: 40px 50px;
+    }
+}
+@media(max-width: 1024px){
+    .sub-main-w3 {
+        width: 42%;
+    }
+}
+@media(max-width: 900px){
+    .sub-main-w3 h2 {
+        font-size: 1.7em;
+    }
+    .sub-main-w3 {
+        width: 47%;
+        margin: 70px auto;
+    }
+}
+@media(max-width: 800px){
+}
+@media(max-width: 768px){
+	.sub-main-w3 {
+    margin: 61px auto;
+    width: 50%;
+	}
+}
+@media(max-width: 736px){
+    .sub-main-w3 {
+        width: 56%;
+    }
+    .sub-main-w3 {
+        margin: 70px auto;
+    }
+}
+@media(max-width: 667px){
+    .pom-agile {
+        padding: 10px 15px;
+    }
+    .sub-main-w3 {
+        width: 61%;
+        padding: 35px 40px;
+    }
+}
+@media(max-width: 600px){
+}
+@media(max-width: 568px){
+    .sub-main-w3 {
+        width: 64%;
+    }
+    .pom-agile input[type="text"], .pom-agile input[type="password"] {
+        width: 91%;
+    }
+}
+@media(max-width: 480px){
+    .sub-main-w3 h2 {
+        font-size: 1.5em;
+    }
+    .sub-main-w3 {
+        width: 69%;
+    }
+    .footer p {
+        line-height: 1.9;
+        letter-spacing: 1px
+    }
+}
+@media(max-width: 440px){
+
+}
+@media(max-width: 414px){
+    .sub-main-w3 {
+        width: 75%;
+        padding: 30px 35px;
+        margin: 80px auto;
+    }
+}
+@media(max-width: 384px){
+    .right-w3l input[type="submit"] {
+        padding: 10px 38px;
+    }
+    .sub-main-w3 {
+        margin: 60px auto;
+    }
+    .pom-agile input[type="text"], .pom-agile input[type="password"] {
+        width: 89%;
+    }
+}
+@media(max-width: 375px){
+
+}
+@media(max-width: 320px){
+    .sub-main-w3 h2 {
+        font-size: 1.3em;
+    }
+    .sub-agile input[type="checkbox"]+label {
+        padding-left: 22px;
+        font-size: .8em;
+    }
+    .sub-w3l a {
+        font-size: .8em;
+    }
+    .pom-agile input[type="text"], .pom-agile input[type="password"] {
+        font-size: .8em;
+        width: 87%;
+    }
+    .pom-agile {
+        padding: 10px 10px;
+    }
+    .sub-main-w3 {
+        margin: 37px auto;
+        width: 76%;
+        padding: 23px 25px;
+    }
+    .right-w3l input[type="submit"] {
+        font-size: .8em;
+    }
+    span.fa {
+        line-height: 1.2;
+    }
+}
+/*--//responsive--*/

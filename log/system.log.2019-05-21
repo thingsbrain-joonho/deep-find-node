@@ -1,0 +1,149 @@
+2019-05-21 12:05L26 [INFO] - ,main,GET,admin,::ffff:192.168.0.1,메인화면 접속
+2019-05-21 12:05L27 [INFO] - ,cleanhouse,GET,admin,::ffff:192.168.0.1,클린하우스 로그 접속
+2019-05-21 12:06L33 [INFO] - ,main,GET,admin,::ffff:192.168.0.1,메인화면 접속
+2019-05-21 12:06L33 [INFO] - ,cleanhouse,GET,admin,::ffff:192.168.0.1,클린하우스 로그 접속
+2019-05-21 12:06L36 [INFO] - ,cleanhouse,POST,admin,::ffff:192.168.0.1,2019-05-21일 로그 조회
+2019-05-21 12:06L42 [INFO] - ,cleanhouse,POST,admin,::ffff:192.168.0.1,2019-05-20일 로그 조회
+2019-05-21 12:06L47 [INFO] - ,cleanhouse,POST,admin,::ffff:192.168.0.1,2019-05-21일 로그 조회
+2019-05-21 12:08L45 [INFO] - ,main,GET,admin,::ffff:192.168.0.1,메인화면 접속
+2019-05-21 12:08L46 [INFO] - ,cleanhouse,GET,admin,::ffff:192.168.0.1,클린하우스 로그 접속
+2019-05-21 12:09L56 [INFO] - ,main,GET,admin,::ffff:192.168.0.1,메인화면 접속
+2019-05-21 12:09L56 [INFO] - ,cleanhouse,GET,admin,::ffff:192.168.0.1,클린하우스 로그 접속
+2019-05-21 12:10L46 [INFO] - ,main,GET,admin,::ffff:192.168.0.1,메인화면 접속
+2019-05-21 12:10L47 [INFO] - ,cleanhouse,GET,admin,::ffff:192.168.0.1,클린하우스 로그 접속
+2019-05-21 12:11L06 [INFO] - ,smart,GET,admin,::ffff:192.168.0.1,스마트파킹 로그 접속
+2019-05-21 12:11L48 [INFO] - ,main,GET,admin,::ffff:192.168.0.1,메인화면 접속
+2019-05-21 12:11L48 [INFO] - ,cleanhouse,GET,admin,::ffff:192.168.0.1,클린하우스 로그 접속
+2019-05-21 12:12L42 [INFO] - ,main,GET,admin,::ffff:192.168.0.1,메인화면 접속
+2019-05-21 12:12L42 [INFO] - ,cleanhouse,GET,admin,::ffff:192.168.0.1,클린하우스 로그 접속
+2019-05-21 12:13L46 [INFO] - ,main,GET,admin,::ffff:192.168.0.1,메인화면 접속
+2019-05-21 12:13L46 [INFO] - ,cleanhouse,GET,admin,::ffff:192.168.0.1,클린하우스 로그 접속
+2019-05-21 12:14L16 [INFO] - ,main,GET,admin,::ffff:192.168.0.1,메인화면 접속
+2019-05-21 12:14L16 [INFO] - ,cleanhouse,GET,admin,::ffff:192.168.0.1,클린하우스 로그 접속
+2019-05-21 12:14L40 [INFO] - ,main,GET,admin,::ffff:192.168.0.1,메인화면 접속
+2019-05-21 12:14L41 [INFO] - ,cleanhouse,GET,admin,::ffff:192.168.0.1,클린하우스 로그 접속
+2019-05-21 12:15L13 [INFO] - ,main,GET,admin,::ffff:192.168.0.1,메인화면 접속
+2019-05-21 12:15L14 [INFO] - ,cleanhouse,GET,admin,::ffff:192.168.0.1,클린하우스 로그 접속
+2019-05-21 12:15L44 [INFO] - ,main,GET,admin,::ffff:192.168.0.1,메인화면 접속
+2019-05-21 12:15L45 [INFO] - ,cleanhouse,GET,admin,::ffff:192.168.0.1,클린하우스 로그 접속
+2019-05-21 12:16L37 [INFO] - ,main,GET,admin,::ffff:192.168.0.1,메인화면 접속
+2019-05-21 12:16L38 [INFO] - ,cleanhouse,GET,admin,::ffff:192.168.0.1,클린하우스 로그 접속
+2019-05-21 12:17L50 [INFO] - ,main,GET,admin,::ffff:192.168.0.1,메인화면 접속
+2019-05-21 12:17L51 [INFO] - ,cleanhouse,GET,admin,::ffff:192.168.0.1,클린하우스 로그 접속
+2019-05-21 12:24L34 [INFO] - ,main,GET,admin,::ffff:192.168.0.1,메인화면 접속
+2019-05-21 12:24L35 [INFO] - ,cleanhouse,GET,admin,::ffff:192.168.0.1,클린하우스 로그 접속
+2019-05-21 12:30L45 [INFO] - ,main,GET,admin,::ffff:192.168.0.1,메인화면 접속
+2019-05-21 12:30L46 [INFO] - ,cleanhouse,GET,admin,::ffff:192.168.0.1,클린하우스 로그 접속
+2019-05-21 12:32L13 [INFO] - ,main,GET,admin,::ffff:192.168.0.1,메인화면 접속
+2019-05-21 12:32L13 [INFO] - ,cleanhouse,GET,admin,::ffff:192.168.0.1,클린하우스 로그 접속
+2019-05-21 12:35L46 [INFO] - ,main,GET,admin,::ffff:192.168.0.1,메인화면 접속
+2019-05-21 12:35L46 [INFO] - ,cleanhouse,GET,admin,::ffff:192.168.0.1,클린하우스 로그 접속
+2019-05-21 12:35L47 [INFO] - ,smart,GET,admin,::ffff:192.168.0.1,스마트파킹 로그 접속
+2019-05-21 12:35L50 [INFO] - ,cleanhouse,GET,admin,::ffff:192.168.0.1,클린하우스 로그 접속
+2019-05-21 12:35L51 [INFO] - ,smart,GET,admin,::ffff:192.168.0.1,스마트파킹 로그 접속
+2019-05-21 12:36L10 [INFO] - ,main,GET,admin,::ffff:192.168.0.1,메인화면 접속
+2019-05-21 12:36L10 [INFO] - ,smart,GET,admin,::ffff:192.168.0.1,스마트파킹 로그 접속
+2019-05-21 12:36L16 [INFO] - ,cleanhouse,GET,admin,::ffff:192.168.0.1,클린하우스 로그 접속
+2019-05-21 12:41L44 [INFO] - ,main,GET,admin,::ffff:192.168.0.1,메인화면 접속
+2019-05-21 12:41L45 [INFO] - ,cleanhouse,GET,admin,::ffff:192.168.0.1,클린하우스 로그 접속
+2019-05-21 12:41L47 [INFO] - ,cleanhouse,POST,admin,::ffff:192.168.0.1,2019-05-20일 로그 조회
+2019-05-21 12:41L50 [INFO] - ,cleanhouse,POST,admin,::ffff:192.168.0.1,2019-05-21일 로그 조회
+2019-05-21 12:41L52 [INFO] - ,cleanhouse,POST,admin,::ffff:192.168.0.1,2019-05-20일 로그 조회
+2019-05-21 12:41L59 [INFO] - ,cleanhouse,POST,admin,::ffff:192.168.0.1,2019-05-21일 로그 조회
+2019-05-21 12:48L23 [INFO] - ,main,GET,admin,::ffff:192.168.0.1,메인화면 접속
+2019-05-21 12:48L24 [INFO] - ,cleanhouse,GET,admin,::ffff:192.168.0.1,클린하우스 로그 접속
+2019-05-21 12:48L26 [INFO] - ,cleanhouse,POST,admin,::ffff:192.168.0.1,2019-05-20일 로그 조회
+2019-05-21 12:48L28 [INFO] - ,smart,GET,admin,::ffff:192.168.0.1,스마트파킹 로그 접속
+2019-05-21 12:48L35 [INFO] - ,smart,POST,admin,::ffff:192.168.0.1,2019-05-20일 로그 조회
+2019-05-21 12:48L42 [INFO] - ,animal,GET,admin,::ffff:192.168.0.1,유해조수 로그 접속
+2019-05-21 12:48L43 [INFO] - ,smart,GET,admin,::ffff:192.168.0.1,스마트파킹 로그 접속
+2019-05-21 12:48L43 [INFO] - ,cleanhouse,GET,admin,::ffff:192.168.0.1,클린하우스 로그 접속
+2019-05-21 12:58L46 [INFO] - ,main,GET,admin,::ffff:192.168.0.1,메인화면 접속
+2019-05-21 12:58L48 [INFO] - ,log,GET,admin,::ffff:192.168.0.1,통합관리시스템 로그 접속
+2019-05-21 13:01L16 [INFO] - ,main,GET,admin,::ffff:192.168.0.1,메인화면 접속
+2019-05-21 13:01L17 [INFO] - ,log,GET,admin,::ffff:192.168.0.1,통합관리시스템 로그 접속
+2019-05-21 13:01L45 [INFO] - ,smart,POST,admin,::ffff:192.168.0.1,2019-05-20일 로그 조회
+2019-05-21 13:02L09 [INFO] - ,main,GET,admin,::ffff:192.168.0.1,메인화면 접속
+2019-05-21 13:02L09 [INFO] - ,log,GET,admin,::ffff:192.168.0.1,통합관리시스템 로그 접속
+2019-05-21 13:02L19 [INFO] - ,log,GET,admin,::ffff:192.168.0.1,통합관리시스템 로그 접속
+2019-05-21 13:04L12 [INFO] - ,log,GET,admin,::ffff:192.168.0.1,통합관리시스템 로그 접속
+2019-05-21 13:05L16 [INFO] - ,log,GET,admin,::ffff:192.168.0.1,통합관리시스템 로그 접속
+2019-05-21 13:05L19 [INFO] - ,cleanhouse,GET,admin,::ffff:192.168.0.1,클린하우스 로그 접속
+2019-05-21 13:06L11 [INFO] - ,cleanhouse,GET,admin,::ffff:192.168.0.1,클린하우스 로그 접속
+2019-05-21 13:07L12 [INFO] - ,cleanhouse,GET,admin,::ffff:192.168.0.1,클린하우스 로그 접속
+2019-05-21 13:08L03 [INFO] - ,cleanhouse,GET,admin,::ffff:192.168.0.1,클린하우스 로그 접속
+2019-05-21 13:08L04 [INFO] - ,cleanhouse,GET,admin,::ffff:192.168.0.1,클린하우스 로그 접속
+2019-05-21 13:08L26 [INFO] - ,cleanhouse,GET,admin,::ffff:192.168.0.1,클린하우스 로그 접속
+2019-05-21 13:11L09 [INFO] - ,cleanhouse,GET,admin,::ffff:192.168.0.1,클린하우스 로그 접속
+2019-05-21 13:33L09 [INFO] - ,main,GET,pk1_admin,::ffff:192.168.0.1,메인화면 접속
+2019-05-21 13:33L13 [INFO] - ,cleanhouse,GET,pk1_admin,::ffff:192.168.0.1,클린하우스 로그 접속
+2019-05-21 13:33L15 [INFO] - ,smart,GET,pk1_admin,::ffff:192.168.0.1,스마트파킹 로그 접속
+2019-05-21 13:33L15 [INFO] - ,log,GET,pk1_admin,::ffff:192.168.0.1,통합관리시스템 로그 접속
+2019-05-21 13:33L16 [INFO] - ,smart,GET,pk1_admin,::ffff:192.168.0.1,스마트파킹 로그 접속
+2019-05-21 13:33L17 [INFO] - ,cleanhouse,GET,pk1_admin,::ffff:192.168.0.1,클린하우스 로그 접속
+2019-05-21 13:33L24 [INFO] - ,smart,GET,pk1_admin,::ffff:192.168.0.1,스마트파킹 로그 접속
+2019-05-21 13:33L26 [INFO] - ,cleanhouse,GET,pk1_admin,::ffff:192.168.0.1,클린하우스 로그 접속
+2019-05-21 13:33L37 [INFO] - ,cleanhouse,GET,pk1_admin,::ffff:192.168.0.1,클린하우스 로그 접속
+2019-05-21 13:33L39 [INFO] - ,smart,GET,pk1_admin,::ffff:192.168.0.1,스마트파킹 로그 접속
+2019-05-21 13:33L40 [INFO] - ,log,GET,pk1_admin,::ffff:192.168.0.1,통합관리시스템 로그 접속
+2019-05-21 13:33L41 [INFO] - ,cleanhouse,GET,pk1_admin,::ffff:192.168.0.1,클린하우스 로그 접속
+2019-05-21 13:34L49 [INFO] - ,cleanhouse,GET,pk1_admin,::ffff:192.168.0.1,클린하우스 로그 접속
+2019-05-21 13:35L01 [INFO] - ,cleanhouse,GET,pk1_admin,::ffff:192.168.0.1,클린하우스 로그 접속
+2019-05-21 13:35L14 [INFO] - ,cleanhouse,GET,pk1_admin,::ffff:192.168.0.1,클린하우스 로그 접속
+2019-05-21 13:36L41 [INFO] - ,main,GET,pk1_admin,::ffff:192.168.0.1,메인화면 접속
+2019-05-21 13:36L42 [INFO] - ,cleanhouse,GET,pk1_admin,::ffff:192.168.0.1,클린하우스 로그 접속
+2019-05-21 13:37L40 [INFO] - ,cleanhouse,GET,pk1_admin,::ffff:192.168.0.1,클린하우스 로그 접속
+2019-05-21 13:40L18 [INFO] - ,cleanhouse,GET,pk1_admin,::ffff:192.168.0.1,클린하우스 로그 접속
+2019-05-21 13:40L48 [INFO] - ,cleanhouse,GET,pk1_admin,::ffff:192.168.0.1,클린하우스 로그 접속
+2019-05-21 13:40L49 [INFO] - ,cleanhouse,POST,pk1_admin,::ffff:192.168.0.1,2019-05-20일 로그 조회
+2019-05-21 13:40L51 [INFO] - ,smart,GET,pk1_admin,::ffff:192.168.0.1,스마트파킹 로그 접속
+2019-05-21 13:40L52 [INFO] - ,smart,POST,pk1_admin,::ffff:192.168.0.1,2019-05-20일 로그 조회
+2019-05-21 13:40L55 [INFO] - ,cleanhouse,GET,pk1_admin,::ffff:192.168.0.1,클린하우스 로그 접속
+2019-05-21 13:45L05 [INFO] - ,cleanhouse,GET,pk1_admin,::ffff:192.168.0.1,클린하우스 로그 접속
+2019-05-21 13:45L09 [INFO] - ,cleanhouse,POST,pk1_admin,::ffff:192.168.0.1,2019-05-20일 로그 조회
+2019-05-21 13:45L21 [INFO] - ,smart,GET,pk1_admin,::ffff:192.168.0.1,스마트파킹 로그 접속
+2019-05-21 13:45L23 [INFO] - ,cleanhouse,GET,pk1_admin,::ffff:192.168.0.1,클린하우스 로그 접속
+2019-05-21 13:47L01 [INFO] - ,cleanhouse,GET,pk1_admin,::ffff:192.168.0.1,클린하우스 로그 접속
+2019-05-21 13:47L36 [INFO] - ,cleanhouse,GET,pk1_admin,::ffff:192.168.0.1,클린하우스 로그 접속
+2019-05-21 13:48L15 [INFO] - ,cleanhouse,GET,pk1_admin,::ffff:192.168.0.1,클린하우스 로그 접속
+2019-05-21 13:48L20 [INFO] - ,cleanhouse,GET,pk1_admin,::ffff:192.168.0.1,클린하우스 로그 접속
+2019-05-21 13:49L21 [INFO] - ,cleanhouse,GET,pk1_admin,::ffff:192.168.0.1,클린하우스 로그 접속
+2019-05-21 13:49L53 [INFO] - ,cleanhouse,GET,pk1_admin,::ffff:192.168.0.1,클린하우스 로그 접속
+2019-05-21 13:50L35 [INFO] - ,cleanhouse,GET,pk1_admin,::ffff:192.168.0.1,클린하우스 로그 접속
+2019-05-21 13:50L59 [INFO] - ,cleanhouse,GET,pk1_admin,::ffff:192.168.0.1,클린하우스 로그 접속
+2019-05-21 13:51L00 [INFO] - ,cleanhouse,POST,pk1_admin,::ffff:192.168.0.1,2019-05-20일 로그 조회
+2019-05-21 13:51L59 [INFO] - ,cleanhouse,GET,pk1_admin,::ffff:192.168.0.1,클린하우스 로그 접속
+2019-05-21 13:52L42 [INFO] - ,cleanhouse,GET,pk1_admin,::ffff:192.168.0.1,클린하우스 로그 접속
+2019-05-21 13:52L44 [INFO] - ,cleanhouse,POST,pk1_admin,::ffff:192.168.0.1,2019-05-20일 로그 조회
+2019-05-21 13:52L54 [INFO] - ,cleanhouse,GET,pk1_admin,::ffff:192.168.0.1,클린하우스 로그 접속
+2019-05-21 13:53L00 [INFO] - ,cleanhouse,POST,pk1_admin,::ffff:192.168.0.1,2019-05-20일 로그 조회
+2019-05-21 13:53L02 [INFO] - ,cleanhouse,POST,pk1_admin,::ffff:192.168.0.1,2019-05-21일 로그 조회
+2019-05-21 13:54L43 [INFO] - ,cleanhouse,GET,pk1_admin,::ffff:192.168.0.1,클린하우스 로그 접속
+2019-05-21 13:54L47 [INFO] - ,cleanhouse,POST,pk1_admin,::ffff:192.168.0.1,2019-05-20일 로그 조회
+2019-05-21 13:56L46 [INFO] - ,cleanhouse,GET,pk1_admin,::ffff:192.168.0.1,클린하우스 로그 접속
+2019-05-21 13:56L47 [INFO] - ,cleanhouse,GET,pk1_admin,::ffff:192.168.0.1,클린하우스 로그 접속
+2019-05-21 13:56L49 [INFO] - ,cleanhouse,GET,pk1_admin,::ffff:192.168.0.1,클린하우스 로그 접속
+2019-05-21 13:56L51 [INFO] - ,cleanhouse,POST,pk1_admin,::ffff:192.168.0.1,2019-05-20일 로그 조회
+2019-05-21 13:56L52 [INFO] - ,cleanhouse,GET,pk1_admin,::ffff:192.168.0.1,클린하우스 로그 접속
+2019-05-21 13:57L01 [INFO] - ,log,GET,pk1_admin,::ffff:192.168.0.1,통합관리시스템 로그 접속
+2019-05-21 13:58L02 [INFO] - ,log,GET,pk1_admin,::ffff:192.168.0.1,통합관리시스템 로그 접속
+2019-05-21 13:58L07 [INFO] - ,log,GET,pk1_admin,::ffff:192.168.0.1,통합관리시스템 로그 접속
+2019-05-21 13:58L10 [INFO] - ,log,GET,pk1_admin,::ffff:192.168.0.1,통합관리시스템 로그 접속
+2019-05-21 13:58L24 [INFO] - ,smart,GET,pk1_admin,::ffff:192.168.0.1,스마트파킹 로그 접속
+2019-05-21 13:58L39 [INFO] - ,smart,GET,pk1_admin,::ffff:192.168.0.1,스마트파킹 로그 접속
+2019-05-21 13:58L49 [INFO] - ,log,GET,pk1_admin,::ffff:192.168.0.1,통합관리시스템 로그 접속
+2019-05-21 14:47L03 [INFO] - ,main,GET,pk1_admin,::ffff:192.168.0.1,메인화면 접속
+2019-05-21 14:47L06 [INFO] - ,cleanhouse,GET,pk1_admin,::ffff:192.168.0.1,클린하우스 로그 접속
+2019-05-21 14:47L07 [INFO] - ,smart,GET,pk1_admin,::ffff:192.168.0.1,스마트파킹 로그 접속
+2019-05-21 14:47L08 [INFO] - ,log,GET,pk1_admin,::ffff:192.168.0.1,통합관리시스템 로그 접속
+2019-05-21 14:57L10 [INFO] - ,log,GET,pk1_admin,::ffff:192.168.0.1,통합관리시스템 로그 접속
+2019-05-21 15:24L41 [INFO] - ,main,GET,admin,::ffff:39.7.54.132,메인화면 접속
+2019-05-21 15:24L48 [INFO] - ,cleanhouse,GET,admin,::ffff:39.7.54.132,클린하우스 로그 접속
+2019-05-21 15:25L00 [INFO] - ,log,GET,admin,::ffff:39.7.54.132,통합관리시스템 로그 접속
+2019-05-21 15:25L09 [INFO] - ,main,GET,admin,::ffff:39.7.54.132,메인화면 접속
+2019-05-21 15:25L12 [INFO] - ,log,GET,admin,::ffff:39.7.54.132,통합관리시스템 로그 접속
+2019-05-21 16:37L30 [INFO] - ,main,GET,pk1_admin,::ffff:192.168.0.1,메인화면 접속
+2019-05-21 16:37L31 [INFO] - ,cleanhouse,GET,pk1_admin,::ffff:192.168.0.1,클린하우스 로그 접속
+2019-05-21 16:37L33 [INFO] - ,log,GET,pk1_admin,::ffff:192.168.0.1,통합관리시스템 로그 접속
+2019-05-21 16:38L08 [INFO] - ,cleanhouse,GET,pk1_admin,::ffff:192.168.0.1,클린하우스 로그 접속
+2019-05-21 16:38L09 [INFO] - ,smart,GET,pk1_admin,::ffff:192.168.0.1,스마트파킹 로그 접속

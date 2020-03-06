@@ -1,0 +1,8 @@
+2019-05-23 16:55L51 [INFO] - ,main,GET,admin,::ffff:192.168.0.1,메인화면 접속
+2019-05-23 16:56L22 [INFO] - ,cleanhouse,GET,admin,::ffff:192.168.0.1,클린하우스 로그 접속
+2019-05-23 18:38L54 [INFO] - ,main,GET,admin,::ffff:192.168.0.1,메인화면 접속
+2019-05-23 18:38L55 [INFO] - ,animal,GET,admin,::ffff:192.168.0.1,유해조수 로그 접속
+2019-05-23 18:38L56 [INFO] - ,log,GET,admin,::ffff:192.168.0.1,통합관리시스템 로그 접속
+2019-05-23 18:38L56 [INFO] - ,smart,GET,admin,::ffff:192.168.0.1,스마트파킹 로그 접속
+2019-05-23 18:38L57 [INFO] - ,cleanhouse,GET,admin,::ffff:192.168.0.1,클린하우스 로그 접속
+2019-05-23 18:38L58 [INFO] - ,log,GET,admin,::ffff:192.168.0.1,통합관리시스템 로그 접속

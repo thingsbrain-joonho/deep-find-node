@@ -1,0 +1,6 @@
+2019-05-27 14:59L58 [INFO] - ,main,GET,admin,::ffff:192.168.0.1,메인화면 접속
+2019-05-27 15:00L00 [INFO] - ,cleanhouse,GET,admin,::ffff:192.168.0.1,클린하우스 로그 접속
+2019-05-27 15:00L15 [INFO] - ,cleanhouse,POST,admin,::ffff:192.168.0.1,2019-05-26일 로그 조회
+2019-05-27 15:00L22 [INFO] - ,cleanhouse,POST,admin,::ffff:192.168.0.1,2019-05-25일 로그 조회
+2019-05-27 15:00L24 [INFO] - ,cleanhouse,POST,admin,::ffff:192.168.0.1,2019-05-24일 로그 조회
+2019-05-27 15:00L28 [INFO] - ,cleanhouse,POST,admin,::ffff:192.168.0.1,2019-05-26일 로그 조회

@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>위치정보시스템</title>
+  <!-- BOOTSTRAP STYLES-->
+  <link href="css/bootstrap.css" rel="stylesheet" />
+  <!-- FONTAWESOME STYLES-->
+  <link href="css/font-awesome.css" rel="stylesheet" />
+  <!-- CUSTOM STYLES-->
+  <link href="css/custom.css" rel="stylesheet" />
+  <!-- LOGIN STYLES -->
+  <link rel="stylesheet" href="css/login.css">
+  <!-- FAS ICON -->
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css' />
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
+  <!-- JQUERY -->
+  <script src="//code.jquery.com/jquery-3.2.1.min.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+  <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+  <!-- SWEETALERT2 -->
+  <!-- <link href="node_modules/sweetalert2/dist/sweetalert2.css" rel="stylesheet"/> -->
+  <script src="https://cdn.jsdelivr.net/npm/sweetalert2@8"></script>
+</head>
+
+<body>
+  <div id="wrapper">
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="adjust-nav">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".sidebar-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="/location">
+            <h1 class="title">
+              <font size="5">위치정보 통합관리시스템</font>
+            </h1>
+          </a>
+        </div>
+
+        <% if(user_id !== undefined) {%>
+        <div>
+          <span class="logout-spn">
+            <a href="/logout" class="logout-text">
+              <%= user_id %>, Logout
+            </a>
+          </span>>
+        </div>
+        <%}%>
+
+            </div>
+        </div>
+        <!-- /. NAV TOP  -->
+        <nav class="navbar-default navbar-side" role="navigation">
+            <div class="sidebar-collapse">
+                <ul class="nav" id="main-menu">
+                    <li id="cleanhouse">
+                        <a href="cleanhouse"><i class="fas fa-dumpster"></i>클린하우스 로그</a>
+                    </li>
+
+                    <li id="smart">
+                        <a href="smart"><i class="fas fa-parking"></i>스마트주차 로그</a>
+                    </li>
+
+                    <li id="log">
+                        <a href="log"><i class="far fa-list-alt"></i>통합관리시스템 로그</a>
+                    </li>
+
+                    <li id="animal">
+                        <a href="animal"><i class="fas fa-paw"></i>유해조수 로그   <span class="badge">작업중</span></a>
+                    </li>
+
+                    <li>
+                        <a href="http://definetestserver.iptime.org:8084" target="_blank"><i class="fas fa-external-link-alt"></i>클린하우스 홈페이지</a>
+                    </li>
+                    <li>
+                        <a href="http://definetestserver.iptime.org:8083" target="_blank"><i class="fas fa-external-link-alt"></i>스마트주차 홈페이지</a>
+                    </li>
+                </ul>
+            </div>
+
+        </nav>
+        <!-- /. NAV SIDE  -->
+        <div id="page-wrapper">
+            <div id="page-inner">
+                <div class="row">
+                    <div class="col-md-12">
+                        <h3 id="subtitle" style="margin:0; display:inline-block; margin-top:15px;"> 로그 조회하기 </h3>
+                        <div id="reloadBtn" style="margin:0; display:inline-block;">
+                        </div>
+                    </div>
+                </div>
+                <!-- /. ROW  -->
+                <hr />
+                <%- body %>
+        <!-- /. ROW  -->
+      </div>
+      <!-- /. PAGE INNER  -->
+    </div>
+    <!-- /. PAGE WRAPPER  -->
+  </div>
+  <div class="footer">
+    <div class="row">
+      <div class="col-lg-12" style="text-align:center;">
+        &copy; Design by: <a href="http://deep-find.com" style="color:#fff;" target="_blank">DEFINE</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- /. WRAPPER  -->
+  <!-- SCRIPTS -AT THE BOTOM TO REDUCE THE LOAD TIME-->
+  <!-- JQUERY SCRIPTS -->
+  <script src="js/jquery-1.10.2.js"></script>
+  <!-- BOOTSTRAP SCRIPTS -->
+  <script src="js/bootstrap.min.js"></script>
+  <!-- CUSTOM SCRIPTS -->
+  <script src="js/custom.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,8 @@
+2019-07-31 16:27L18 [INFO] - ,main,GET,pk1_admin,::ffff:218.149.180.254,메인화면 접속
+2019-07-31 16:27L20 [INFO] - ,smart,GET,pk1_admin,::ffff:218.149.180.254,스마트파킹 로그 접속
+2019-07-31 16:28L16 [INFO] - ,main,GET,pk1_admin,::ffff:218.149.180.254,메인화면 접속
+2019-07-31 16:28L17 [INFO] - ,cleanhouse,GET,pk1_admin,::ffff:218.149.180.254,클린하우스 로그 접속
+2019-07-31 16:30L26 [INFO] - ,main,GET,pk1_admin,::ffff:218.149.180.254,메인화면 접속
+2019-07-31 16:30L27 [INFO] - ,cleanhouse,GET,pk1_admin,::ffff:218.149.180.254,클린하우스 로그 접속
+2019-07-31 16:30L34 [INFO] - ,smart,GET,pk1_admin,::ffff:218.149.180.254,스마트파킹 로그 접속
+2019-07-31 16:30L39 [INFO] - ,log,GET,pk1_admin,::ffff:218.149.180.254,통합관리시스템 로그 접속
